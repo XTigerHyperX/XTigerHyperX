@@ -6,8 +6,7 @@ i'm Tiger / XTigerHyperX , i'm mainly a C# developer and i'm also familiar with 
 * [CUE4Parse](https://github.com/FabianFG/CUE4Parse): A C# parser for UE4 packages & assets and it's the parser powering FModel .. Created by [Fabian](https://github.com/FabianFG)<br>
 * [COVID-19-Case-Tracker](https://github.com/XTigerHyperX/COVID-19-Case-Tracker): a very simple tool to keep track of the COVID-19 status around the world .. developed and maintained by me
 * DaV2 : This one is not open source , but it's an automated software that can generate and image with the Fortnite itemshop sections Data .. developed and maintained by me 
-
-https://github-readme-stats.vercel.app/api?username=XTigerHyperX&count_private=true&show_icons=true&theme=dark
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=XTigerHyperX&count_private=true&show_icons=true&theme=dark)]()
 <!--
 **XTigerHyperX/XTigerHyperX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
