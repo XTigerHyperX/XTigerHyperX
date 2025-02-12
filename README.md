@@ -9,7 +9,15 @@ i'm Tiger / XTigerHyperX , i'm mainly a C# developer and i'm also familiar with 
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=XTigerHyperX&count_private=true&show_icons=true&theme=dark)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XTigerHyperX&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🔥 Languages 
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Turbo Pascal](https://img.shields.io/badge/-Turbo%20Pascal-0038A8?style=for-the-badge&logo=delphi&logoColor=white)  
+![UE4](https://img.shields.io/badge/-Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)  
 
 <!--
 **XTigerHyperX/XTigerHyperX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
